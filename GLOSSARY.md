@@ -42,7 +42,7 @@ These commands will give you a sense of direction when you're stuck.
 * **Merge request** - a GitLab-specific term to let others know about changes you've pushed to a branch in a repository
 * **'origin/master'** - the default setting for a remote repository and its primary branch
 
-# General information about working with open source projects:
+# About working with open source projects:
 Every open source community is different. The vocabulary, norms, and communication styles may vary strongly. But majority of open source projects follow a similar organizational structure. A typical open source project can have the following types of people:
 
 * **Author:** The person/s or organization that created the project.
