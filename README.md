@@ -16,16 +16,23 @@ Every open source community is different. The vocabulary, norms, and communicati
 A project usually has documentation files listed in the top level directory of a repository.
 
 **README:** The README is the instruction manual that welcomes new community members to the project. It explains why the project is useful and how to get started.
+
 **CONTRIBUTING:** It explains what types of contributions are needed and how the process works. While not every project has a CONTRIBUTING file, its presence signals that this is a welcoming project to contribute to.
+
 **CODE_OF_CONDUCT:** The code of conduct sets ground rules for participants’ behavior associated and helps to facilitate a friendly, welcoming environment. While not every project has a CODE_OF_CONDUCT file, its presence signals that this is a welcoming project to contribute to.
+
 **LICENSE:** By definition, every open source project must have an open source license. If the project does not have a license, it is not open source.
+
 **OTHER:** There might be additional documentation, such as tutorials, walkthroughs or governance policies, especially on bigger projects.
 
 Open source projects use tools to organize discussion. Reading through the archives will give you a good picture of how the community thinks and works.
 
 **Issue tracker:** To discuss issues related to the project.
+
 **Pull requests:** To discuss and review changes that are in progress.
+
 **Discussion forums:** Some projects may use these channels for more conversational topics instead of bug reports or feature requests.
+
 **real-time chats:** Such as Discord or IRC for casual conversation, quick exchanges, collaboration and organisation.
 
 # A Guide to Get Started
@@ -48,7 +55,7 @@ Add the changes with `git add`, `git commit` (write a nice commit message):
 
 `git add CONTRIBUTORS.md`
 `git commit -m "Add <your-github-username>"`
-`Replace <your-github-username>!`
+Replace <your-github-username>!
 
 Push your changes to your repository:
 
