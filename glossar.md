@@ -12,13 +12,13 @@ The term "repository" is used as a way of talking about all copies of the same p
 Being lost is part of the fun of a Git repository. We can find our way by running through this set of commands:
 
 ```
-git branch—to find which branch you're on
+git branch - to find which branch you're on
 
-git log—to see what commit you're on
+git log - to see what commit you're on
 
-git status—to see what edits you've made since the last commit
+git status - to see what edits you've made since the last commit
 
-git remote—to see what remote repository you're tracking
+git remote - to see what remote repository you're tracking
 ```
 These commands will give you a sense of direction when you're stuck.
 
