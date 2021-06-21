@@ -59,7 +59,7 @@ Go to the GitHub page of your fork, and make a pull request.
 
 Pull requests are proposed changes to a repository submitted by a user and accepted or rejected by a repository's collaborators. Like issues, pull requests each have their own discussion forum.
 
-Read more about pull requests on the [GitHub help pages](https://docs.github.com/en/github/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests#about-pull-requests).
+Read more about [pull requests](https://docs.github.com/en/github/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests#about-pull-requests) on the GitHub help pages.
 
 Wait until one of the maintainers merges your pull request.
 
