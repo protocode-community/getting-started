@@ -4,7 +4,7 @@ A commit simply is a collection of information around your changes, a message ab
 Think of a commit message as a note to your future self: it should give a hint on the intention for changing those files.
 
 # There's no place like 'origin/main'
-Knowing where we are in a Git project starts with thinking of a tree. All Git projects have a root, similar to the idea of a filesystem's root directory. All commits branch off from that root. In this way, a branch is only a pointer to a commit. By convention, master is the default name for the default branch in your root directory.
+Knowing where we are in a Git project starts with thinking of a tree. All Git projects have a root, similar to the idea of a filesystem's root directory. All commits branch off from that root. In this way, a branch is only a pointer to a commit. By convention, main is the default name for the default branch in your root directory.
 
 The term "repository" is used as a way of talking about all copies of the same project. There is the local repository, where you edit your code, and the remote repository, the place where you want to send it. Remotes can be anywhere, but they are often hosted on repository services like GitLab or GitHub.
 
