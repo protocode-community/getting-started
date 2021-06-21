@@ -15,8 +15,8 @@ Every open source community is different. The vocabulary, norms, and communicati
 
 A project usually has documentation files listed in the top level directory of a repository.
 
-* *README:** The README is the instruction manual that welcomes new community members to the project. It explains why the project is useful and how to get started.
-* *CONTRIBUTING:** It explains what types of contributions are needed and how the process works. While not every project has a CONTRIBUTING file, its presence signals that this is a welcoming project to contribute to.
+* **README:** The README is the instruction manual that welcomes new community members to the project. It explains why the project is useful and how to get started.
+* **CONTRIBUTING:** It explains what types of contributions are needed and how the process works. While not every project has a CONTRIBUTING file, its presence signals that this is a welcoming project to contribute to.
 * **CODE_OF_CONDUCT:** The code of conduct sets ground rules for participants’ behavior associated and helps to facilitate a friendly, welcoming environment. While not every project has a CODE_OF_CONDUCT file, its presence signals that this is a welcoming project to contribute to.
 * **LICENSE:** By definition, every open source project must have an open source license. If the project does not have a license, it is not open source.
 * **OTHER:** There might be additional documentation, such as tutorials, walkthroughs or governance policies, especially on bigger projects.
