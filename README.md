@@ -1,10 +1,7 @@
-# How this open source community works
-Read below to see how you can join an existing project or create your own.
-
 # One rule of this team's repositories:
 We don't care if you break things. This is a playground and we encourage failing, because that means you try at least. Use this as a practice ground and enjoy contributing to projects you create with your fellow students. 
 
-# Getting Started
+# Setup and workflow
 Check out this free how-to at http://makeapullrequest.com/.
 
 On the GitHub page for this repository, click on the "Fork"-Button. Then clone your forked repository to your computer. For example by running this command inside your terminal:
@@ -23,9 +20,9 @@ git remote add upstream https://github.com/protocode-community/getting-started.g
 git pull upstream master
 ```
 
-If you run into a merge conflict, you have to resolve the conflict. There are a lot of guides online, or you can try this one by opensource.com.
+If you run into a merge conflict, you have to resolve the conflict. There are a lot of guides about this topic.
 
-On your computer, open your text editor, and add your name to the `CONTRIBUTORS.md` file.
+On your computer, open your text editor, and add your name to the `CONTRIBUTED.md` file.
 
 Add the changes with `git add`, `git commit` (write a nice commit message):
 
