@@ -22,6 +22,26 @@ git remote - to see what remote repository you're tracking
 ```
 These commands will give you a sense of direction when you're stuck.
 
+# Glossary
+* Commit - stores the current contents of the index in a new commit along with a log message from the user describing the changes
+* Branch - a pointer to a commit
+* Master - the default name for the first branch
+* HEAD - a pointer to the most recent commit on the current branch
+* Merge - joining two or more commit histories
+* Workspace - the colloquial name for your local copy of a Git repository
+* Working tree - the current branch in your workspace; you see this in git status output all the time
+* Cache - a space intended to temporarily store uncommitted changes
+* Index - the cache where changes are stored before they are committed
+* Tracked and untracked files - files either in the index cache or not yet added to it
+* Stash - another cache, that acts as a stack, where changes can be stored without committing them
+* Origin - the default name for a remote repository
+* Local repository - another term for where you keep your copy of a Git repository on your workstation
+* Remote repository - a secondary copy of a Git repository where you push changes for collaboration or backup
+* Upstream repository - the colloquial term for a remote repository that you track
+* Pull request - a GitHub-specific term to let others know about changes you've pushed to a branch in a repository
+* Merge request - a GitLab-specific term to let others know about changes you've pushed to a branch in a repository
+* 'origin/master' - the default setting for a remote repository and its primary branch
+
 # General information about working with open source projects:
 Every open source community is different. The vocabulary, norms, and communication styles may vary strongly. But majority of open source projects follow a similar organizational structure. A typical open source project can have the following types of people:
 
