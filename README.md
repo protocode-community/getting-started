@@ -2,8 +2,7 @@
 Read below to see how you can join an existing project or create your own.
 
 # One rule of this team's repositories:
-We don't care if you break things. This is a playground and we encourage failing, because that means you at least try :)
-Use this as a practice ground and enjoy contributing to projects you create with your fellow students. 
+We don't care if you break things. This is a playground and we encourage failing, because that means you try at least. Use this as a practice ground and enjoy contributing to projects you create with your fellow students. 
 
 # Getting Started
 Check out this free how-to at http://makeapullrequest.com/.
