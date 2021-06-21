@@ -32,8 +32,10 @@ Check out this free how-to at http://makeapullrequest.com/.
 
 On the GitHub page for this repository, click on the "Fork"-Button. Then clone your forked repository to your computer. For example by running this command inside your terminal:
 
-`git clone https://github.com/<your-github-username>/start-here-guidelines.git`
-Don't forget to replace <your-github-username>!
+```
+git clone https://github.com/<your-github-username>/start-here-guidelines.git
+```
+Don't forget to replace \<your-github-username\>!
 
 > Here you can learn more about [forking](https://help.github.com/en/github/getting-started-with-github/fork-a-repo) and [cloning](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository) a repo.
 
@@ -54,11 +56,13 @@ Add the changes with `git add`, `git commit` (write a nice commit message):
 git add CONTRIBUTORS.md
 git commit -m "Add <your-github-username>"
 ```
-**Replace <your-github-username>!**
+**Replace \<your-github-username\>!**
 
 Push your changes to your repository:
 
-> git push origin master
+```
+git push origin master
+```
 
 Go to the GitHub page of your fork, and make a pull request.
 
