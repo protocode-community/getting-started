@@ -37,16 +37,16 @@ Don't forget to replace <your-github-username>!
 
 Before you make any changes, keep your fork in sync to avoid merge conflicts:
 
-git remote add upstream https://github.com/protocode-community/getting-started.git
-git pull upstream master
+> git remote add upstream https://github.com/protocode-community/getting-started.git
+> git pull upstream master
 If you run into a merge conflict, you have to resolve the conflict. There are a lot of guides online, or you can try this one by opensource.com.
 
 On your computer, open your text editor, and add your name to the CONTRIBUTORS.md file.
 
 Add the changes with `git add`, `git commit` (write a nice commit message):
 
-`git add CONTRIBUTORS.md`
-`git commit -m "Add <your-github-username>"`
+> git add CONTRIBUTORS.md
+> git commit -m "Add <your-github-username>"
 Replace <your-github-username>!
 
 Push your changes to your repository:
