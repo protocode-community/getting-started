@@ -2,6 +2,8 @@
 We don't care if you break things. This is a playground and we encourage failing, because that means you at least try. Use this as a practice ground and enjoy contributing to projects you create and maintain with your fellow students. 
 
 # Setup and workflow
+You can learn about the workflow in-depth [here](https://www.atlassian.com/git/tutorials/comparing-workflows/forking-workflow). 
+
 On the GitHub page for this repository, click on the "Fork"-Button. Then clone your forked repository to your computer. For example by running this command inside your terminal:
 
 ```
