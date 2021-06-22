@@ -40,7 +40,7 @@ These commands will give you a sense of direction when you're stuck.
 * **Upstream repository** - the colloquial term for a remote repository that you track
 * **Pull request** - a GitHub-specific term to let others know about changes you've pushed to a branch in a repository
 * **Merge request** - a GitLab-specific term to let others know about changes you've pushed to a branch in a repository
-* **'origin/master'** - the default setting for a remote repository and its primary branch
+* **'origin/main'** - the default setting for a remote repository and its primary branch
 
 # About working with open source projects:
 Every open source community is different. The vocabulary, norms, and communication styles may vary strongly. But majority of open source projects follow a similar organizational structure. A typical open source project can have the following types of people:
