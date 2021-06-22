@@ -1,6 +1,4 @@
-
-
 |CONTRIBUTORS|
 |---|
 |[@Prototowb](https://github.com/prototowb)|
-|Pierre **doctype-Pyroy**|
+|[@**doctype-Pyroy**](https://github.com/doctype-Pyroy)|
