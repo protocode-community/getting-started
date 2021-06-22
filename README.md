@@ -17,7 +17,7 @@ Before you make any changes, keep your fork in sync to avoid merge conflicts:
 
 ```
 git remote add upstream https://github.com/protocode-community/getting-started.git
-git pull upstream master
+git pull upstream main
 ```
 
 If you run into a merge conflict, you have to resolve the conflict. There are a lot of guides about this topic.
@@ -35,7 +35,7 @@ git commit -m "Add <your-github-username>"
 Push your changes to your repository:
 
 ```
-git push origin master
+git push origin main
 ```
 
 Go to the GitHub page of your fork, and make a pull request.
