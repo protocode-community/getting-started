@@ -7,7 +7,7 @@ Check out this free how-to at http://makeapullrequest.com/.
 On the GitHub page for this repository, click on the "Fork"-Button. Then clone your forked repository to your computer. For example by running this command inside your terminal:
 
 ```
-git clone https://github.com/<your-github-username>/start-here-guidelines.git
+git clone https://github.com/<your-github-username>/getting-started.git
 ```
 Don't forget to replace \<your-github-username\>!
 
@@ -22,7 +22,7 @@ git pull upstream master
 
 If you run into a merge conflict, you have to resolve the conflict. There are a lot of guides about this topic.
 
-On your computer, open your text editor, and add your name to the `CONTRIBUTED.md` file.
+On your computer, open your text editor, and add your name to the `CONTRIBUTORS.md` file.
 
 Add the changes with `git add`, `git commit` (write a nice commit message):
 
