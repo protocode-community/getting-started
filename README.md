@@ -1,5 +1,7 @@
-# One rule
+# About this open source community
 We don't care if you break things. This is a playground and we encourage failing, because that means you at least try. Use this as a practice ground and enjoy contributing to projects you create and maintain with your fellow students. 
+
+If you're brand new to version control, no worries, we lead you step by step through this. Maybe have a read at [GETTING_STARTED](https://github.com/protocode-community/getting-started/blob/main/GETTING_STARTED.md) or [GLOSSARY](https://github.com/protocode-community/getting-started/blob/main/GLOSSARY.md) for some vocabulary. If you're really stuck on something, you could always ask in the Discord in #dev-ops or the specific projects channel. 
 
 # Setup and workflow
 You can learn about the workflow in-depth [here](https://www.atlassian.com/git/tutorials/comparing-workflows/forking-workflow). 
