@@ -2,8 +2,6 @@
 We don't care if you break things. This is a playground and we encourage failing, because that means you at least try. Use this as a practice ground and enjoy contributing to projects you create and maintain with your fellow students. 
 
 # Setup and workflow
-Check out this free how-to at http://makeapullrequest.com/.
-
 On the GitHub page for this repository, click on the "Fork"-Button. Then clone your forked repository to your computer. For example by running this command inside your terminal:
 
 ```
@@ -39,6 +37,8 @@ git push origin main
 ```
 
 Go to the GitHub page of your fork, and make a pull request.
+
+Check out this free how-to at http://makeapullrequest.com/.
 
 Pull requests are proposed changes to a repository submitted by a user and accepted or rejected by a repository's collaborators. Like issues, pull requests each have their own discussion forum.
 
