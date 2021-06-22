@@ -1,5 +1,5 @@
 # One rule
-We don't care if you break things. This is a playground and we encourage failing, because that means you try at least. Use this as a practice ground and enjoy contributing to projects you create and maintain with your fellow students. 
+We don't care if you break things. This is a playground and we encourage failing, because that means you at least try. Use this as a practice ground and enjoy contributing to projects you create and maintain with your fellow students. 
 
 # Setup and workflow
 Check out this free how-to at http://makeapullrequest.com/.
