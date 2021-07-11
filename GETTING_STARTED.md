@@ -1,5 +1,6 @@
 # Getting Started
 Getting started with open-source may appear a very challenging and overwhelming task at first, but it is, in fact, a fun and rewarding experience.
+Check out this guide: https://egghead.io/lessons/javascript-identifying-how-to-contribute-to-an-open-source-project-on-github
 
 # Community led Collaboration
 Gaining valuable skills employers are always seeking, by:
